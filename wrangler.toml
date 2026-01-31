@@ -1,6 +1,6 @@
 # Cloudflare Worker config
 # IMPORTANT: Set "name" below to the EXACT name of your existing Worker in the Cloudflare dashboard.
 # (Workers & Pages → your worker → the name at the top)
-name = "ganesh-ai-redirector"
+name = "ganesh-ai-redirect"
 main = "worker.js"
 compatibility_date = "2024-01-01"
