@@ -149,7 +149,7 @@ export default {
               <img src="https://www.globaldotstest.com/Logo.png" alt="GlobalDots Logo" class="logo">
           </a>
           
-          <h1 class="title">GlobalDots Comrade!</h1>
+          <h1 class="title">Comrade!</h1>
           
           <p class="subtitle">This AI tool is not sanctioned for use</p>
 
